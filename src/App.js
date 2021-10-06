@@ -19,6 +19,19 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Misiòn</h1>
         </header>
+        <p className="App-intro">
+          Seccion para la misiòn
+
+        </p>
+        
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <h1 className="App-title">Objetivos</h1>
+        </header>
+        <p className="App-intro">
+          Seccion para los objetivos
+
+        </p>
       </div>
     );
   }
