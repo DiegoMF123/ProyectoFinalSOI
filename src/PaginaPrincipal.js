@@ -37,4 +37,4 @@ class App extends Component {
   }
 }
 
-export default PaginaPrincipal;
+export default App;
