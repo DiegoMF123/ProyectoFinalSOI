@@ -6,9 +6,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
+        <header className="Pàgina principal">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Curso de Sistemas Operativos</h1>
+          <h1 className="App-title">Visiòn</h1>
         </header>
         <p className="App-intro">
           Universidad Mariano Galvez, Curso de SO.I Diego Mijangos
