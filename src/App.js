@@ -14,6 +14,11 @@ class App extends Component {
           Seccion para la visiòn
 
         </p>
+        
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <h1 className="App-title">Misiòn</h1>
+        </header>
       </div>
     );
   }
