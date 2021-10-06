@@ -13,7 +13,6 @@ class App extends Component {
         <p className="App-intro">
           Universidad Mariano Galvez, Esta es la visiòn
 
-          To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <br>
         <header className="App-header">
@@ -23,7 +22,6 @@ class App extends Component {
         <p className="App-intro">
           Universidad Mariano Galvez, Esta es la misiòn
 
-          To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <br>
         <header className="App-header">
@@ -33,7 +31,6 @@ class App extends Component {
         <p className="App-intro">
           Universidad Mariano Galvez, Estos son los objetivos
 
-          To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
